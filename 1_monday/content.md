@@ -25,3 +25,4 @@
 * [Example project by Esin](https://near-pin.herokuapp.com/)
     * [Github repository](https://github.com/eadsoy/NEAR-L2-Near-Pin)
 * [View NFT Project](https://near.org/blog/near-education-1000-teachers-program/)
+* [Near in Minutes](https://near-in-minutes.com/)
