@@ -24,3 +24,4 @@
 * [github.com/learn-near](github.com/learn-near)
 * [Example project by Esin](https://near-pin.herokuapp.com/)
     * [Github repository](https://github.com/eadsoy/NEAR-L2-Near-Pin)
+* [View NFT Project](https://near.org/blog/near-education-1000-teachers-program/)
