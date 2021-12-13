@@ -15,3 +15,4 @@
 ## Reserach Items
 * Buildspace
 * [github.com/learn-near](github.com/learn-near)
+* [Example project by Esin](https://near-pin.herokuapp.com/)
