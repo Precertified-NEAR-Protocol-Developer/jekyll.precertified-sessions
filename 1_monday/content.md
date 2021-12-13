@@ -11,7 +11,6 @@
 * You are registering yourself on the blockchain as the account that's associated
     * If I own an NFT, can I build a service that decorates the Blockchain that my NFT is persisted on?
 * Forces someone who owns an NFT to sign a transaction which verifies their ownership upon accessing the Block.
-* [Near Education 1000 Teachers Program](https://near.org/blog/near-education-1000-teachers-program/)
 
 ### Protocol for Developing Teaching Materials
 * What is?
@@ -22,6 +21,7 @@
 ## Reserach Items
 * [Buildspace](https://buildspace.so/)
 * [github.com/learn-near](github.com/learn-near)
+* [Near Education 1000 Teachers Program](https://near.org/blog/near-education-1000-teachers-program/)
 * [Example project by Esin](https://near-pin.herokuapp.com/)
     * [Github repository](https://github.com/eadsoy/NEAR-L2-Near-Pin)
 * [View NFT Project](https://near.org/blog/near-education-1000-teachers-program/)
