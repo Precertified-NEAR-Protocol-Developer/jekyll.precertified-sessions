@@ -20,7 +20,7 @@
     * What is the tech stack?
 
 ## Reserach Items
-* Buildspace
+* [Buildspace](https://buildspace.so/)
 * [github.com/learn-near](github.com/learn-near)
 * [Example project by Esin](https://near-pin.herokuapp.com/)
     * [Github repository](https://github.com/eadsoy/NEAR-L2-Near-Pin)
