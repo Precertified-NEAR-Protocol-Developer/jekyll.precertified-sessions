@@ -28,6 +28,7 @@
 * [NEAR Sample Lottery](https://buildspace.so/)
 * [NEAR Protocol Setup](https://docs.near.org/docs/tools/near-cli#setup)
 * [NCD Slides](https://docs.google.com/presentation/d/1a7fVnVjn1u29C1T30DAv6pJmb4YlnvAzenFZHQoTUSI/edit)
+* [Nar Wallet](https://narwallets.com/)
 * Other useful Rust resources
     * https://www.near-sdk.io/zero-to-hero/basics/overview 
     * Mike Purvis created a Crossword demo and walkthrough and created a series of videos that cover a few topics he’s interested in, all useful for Rust devs
