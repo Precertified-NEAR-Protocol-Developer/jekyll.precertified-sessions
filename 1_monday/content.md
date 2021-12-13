@@ -12,6 +12,12 @@
     * If I own an NFT, can I build a service that decorates the Blockchain that my NFT is persisted on?
 * Forces someone who owns an NFT to sign a transaction which verifies their ownership upon accessing the Block.
 
+### Protocol for developing
+* What is?
+* How do I use?
+* How do I create?
+    * What is the tech stack?
+
 ## Reserach Items
 * Buildspace
 * [github.com/learn-near](github.com/learn-near)
