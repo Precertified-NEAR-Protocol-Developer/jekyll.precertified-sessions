@@ -36,7 +36,7 @@
         * https://www.youtube.com/watch?v=79jknJQltZw&list=PL9tzQn_TEuFVpC56Ch_BiEMqH4yd_JGNV&index=6 
     * Austin Abell delivered a Rust workshop that’s captured on video,
         * https://near-org.zoom.us/rec/share/5GHDJPtTkf6cnBDJF8rK3V2dguwIo-CCyZFFI700ml6GtP8sCXzLJNtsUmxvW23o.cXwA7U4B7b_muHVd
-            * (Passcode 0qsuB!4#)
+            * (Passcode `0qsuB!4#`)
     * One of the 4ire devs created a solid intro to Rust with NEAR in Russian that’s useful
         * https://youtube.com/playlist?list=PL9tzQn_TEuFUakOn-IY9cDQL2ztNzZunh 
     * there’s a terrible Udemy video about Rust contracts
