@@ -17,7 +17,7 @@
 * How do I create?
     * What is the tech stack?
 
-## Reserach Items
+## Research Items
 * [Buildspace](https://buildspace.so/)
 * [github.com/learn-near](github.com/learn-near)
 * [Near Education 1000 Teachers Program](https://near.org/blog/near-education-1000-teachers-program/)
@@ -41,3 +41,9 @@
         * https://youtube.com/playlist?list=PL9tzQn_TEuFUakOn-IY9cDQL2ztNzZunh 
     * there’s a terrible Udemy video about Rust contracts
         * https://www.udemy.com/course/near-blockchain-smart-contract-development/ 
+
+<!--
+## NEAR Protocol Resources
+* https://drive.google.com/drive/folders/1w2bJSNOP_-G_NhmuwYnmclGZKblLcSwe
+* https://hackmd.io/@nearly-learning/nci
+-->
