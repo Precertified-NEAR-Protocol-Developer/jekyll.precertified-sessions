@@ -42,8 +42,10 @@
     * there’s a terrible Udemy video about Rust contracts
         * https://www.udemy.com/course/near-blockchain-smart-contract-development/ 
 
-<!--
+
 ## NEAR Protocol Resources
 * https://drive.google.com/drive/folders/1w2bJSNOP_-G_NhmuwYnmclGZKblLcSwe
+
+<!--
 * https://hackmd.io/@nearly-learning/nci
 -->
