@@ -1,4 +1,4 @@
-# Prerequesites
+# Local Deployment
 * Ensure [`Ruby` and `Jekyll` are installed](https://curriculeon.github.io/Curriculeon/lectures/jekyll/installation/content.html) on your machine.
 * Execute the command below from the root directory of the project upon cloning
     * `chmod u+x ./run.sh`
