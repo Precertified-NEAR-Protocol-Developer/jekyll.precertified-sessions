@@ -9,4 +9,3 @@
 
 ### Goals For Upcoming session
 * Design, implement and deploy something by `12/16/2021`
-
