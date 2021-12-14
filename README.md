@@ -1,7 +1,7 @@
 # Precertified Session Notes
 * The purpose of this repository is to provide a centralized location for pre-certified developers to add notes.
 * This project has been deployed to github pages
-  * [https://precertified-near-protocol-developer.github.io/jekyll.precertified-sessions/](https://precertified-near-protocol-developer.github.io/jekyll.precertified-sessions/)
+  * [`https://precertified-near-protocol-developer.github.io/jekyll.precertified-sessions/`](https://precertified-near-protocol-developer.github.io/jekyll.precertified-sessions/)
 
 
 # Running Web Appliaction on Local Machine
