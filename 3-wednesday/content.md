@@ -11,7 +11,7 @@
 * [JMoss-Architecture-DAO](https://github.com/JMoss-Architecture-DAO/README)
 
 
-## Juan Knowledge Share
+## Juan Cardona Knowledge Share
 * [Buy My NEAR](https://slides.com/juandavidnicholls/buy-me-near/)
 
 ## Sherif Knowledge Share
