@@ -11,7 +11,7 @@
 * [JMoss-Architecture-DAO](https://github.com/JMoss-Architecture-DAO/README)
 
 
-## Jose NEAR Certified Notes
+## JD Nicholls NEAR Certified Notes
 * Click [here](./jose-near-certified.md) to view Jose's notes on NEAR Certified Instructor
 
 ## Juan Cardona Knowledge Share
