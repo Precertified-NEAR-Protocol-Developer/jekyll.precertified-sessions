@@ -27,3 +27,5 @@
 * A smart contract will behave as the backend of an application
 * The front of the application will poll the deployed smart contract to verify the transaction data that is being persisted
 * The front of the application will ping the deployed smart contract to append the transaction data that is will be persisted
+
+## Ramses Knowledge Share
