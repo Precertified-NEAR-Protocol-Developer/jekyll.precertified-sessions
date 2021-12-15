@@ -11,11 +11,19 @@
 * [JMoss-Architecture-DAO](https://github.com/JMoss-Architecture-DAO/README)
 
 
-## Jose Knowledge Share
-
+## Juan Knowledge Share
+* [Buy My NEAR](https://slides.com/juandavidnicholls/buy-me-near/)
 
 ## Sherif Knowledge Share
 * [Exploring AssemblyScript Contracts](https://github.com/near-examples/workshop--exploring-assemblyscript-contracts)
+* [Building A CRUD Application in NEAR](https://slides.com/juandavidnicholls/buy-me-near/)
+    * [Git Repository](https://github.com/near-examples/crud-tutorial/)
 
 ## Santhosh Knowledge Share
 * There will be a townhall announcing information about a NEAR hackathon.
+
+
+## NEAR Application Architecture
+* A smart contract will behave as the backend of an application
+* The front of the application will poll the deployed smart contract to verify the transaction data that is being persisted
+* The front of the application will ping the deployed smart contract to append the transaction data that is will be persisted
