@@ -9,3 +9,10 @@
 
 ## Moses Knowledge Share
 * [JMoss-Architecture-DAO](https://github.com/JMoss-Architecture-DAO/README)
+
+
+## Jose Knowledge Share
+
+
+## Sherif Knowledge Share
+* [Exploring AssemblyScript Contracts](https://github.com/near-examples/workshop--exploring-assemblyscript-contracts)
