@@ -32,3 +32,11 @@
 * The front of the application will ping the deployed smart contract to append the transaction data that is will be persisted
 
 ## Ramses Knowledge Share
+
+
+## Dimitry Knowledge Share
+* Use Loom Videos
+
+
+### Vocabulary
+* DAO - decentralized autonomous organization
