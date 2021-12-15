@@ -16,3 +16,6 @@
 
 ## Sherif Knowledge Share
 * [Exploring AssemblyScript Contracts](https://github.com/near-examples/workshop--exploring-assemblyscript-contracts)
+
+## Santhosh Knowledge Share
+* There will be a townhall announcing information about a NEAR hackathon.
