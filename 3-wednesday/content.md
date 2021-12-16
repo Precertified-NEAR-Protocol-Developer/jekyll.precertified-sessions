@@ -1,4 +1,4 @@
-# Tuesday, 12-15-2021
+# Wednesday, 12-15-2021
 
 ## Leon Knowledge Share
 * [Precertified NEAR Protocol Developer Organizaiton](https://github.com/Precertified-NEAR-Protocol-Developer/jekyll.precertified-sessions)
