@@ -9,3 +9,5 @@
     * https://stackoverflow.com/questions/tagged/nearprotocol
 * Course Feedback
     * https://airtable.com/shrVUHoe9dSnhiZhA
+* NEAR Docs on Gas
+    * https://docs.near.org/docs/concepts/gas
