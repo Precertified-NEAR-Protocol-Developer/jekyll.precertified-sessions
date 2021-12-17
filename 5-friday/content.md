@@ -10,3 +10,5 @@
     * https://github.com/near-examples/cross-contract-calls
 * pieces opf tech in organization, bridging assets and value between NEAR and Ethereum networks
     * https://aurora.dev/
+* zero knowledge proof
+    * zksnark, zkstart, cypherpunks
