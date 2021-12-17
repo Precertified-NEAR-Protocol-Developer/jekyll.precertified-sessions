@@ -11,3 +11,5 @@
     * https://airtable.com/shrVUHoe9dSnhiZhA
 * NEAR Docs on Gas
     * https://docs.near.org/docs/concepts/gas
+* JD First Near Project
+    * https://github.com/jdnichollsc/my-first-near

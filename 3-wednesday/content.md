@@ -14,7 +14,7 @@
 ## JD Nicholls NEAR Certified Notes
 * Click [here](./jose-near-certified.md) to view Jose's notes on NEAR Certified Instructor
 
-## Juan Cardona Knowledge Share
+## Juan Knowledge Share
 * [Buy My NEAR](https://slides.com/juandavidnicholls/buy-me-near/)
 
 ## Sherif Knowledge Share
