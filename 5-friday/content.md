@@ -12,6 +12,8 @@
     * https://aurora.dev/
 * zero knowledge proof
     * zksnark, zkstart, cypherpunks
+* JD Growth Mentorships
+    * https://www.notion.so/proyecto26/277197f654b24ff2a9e25a2f4e46d600?v=021928c3e82b4bd18997ff4d7be0d070
 
 
 ### miscellaneous
